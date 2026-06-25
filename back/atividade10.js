@@ -21,6 +21,6 @@ console.log("   Juntos, estamos construindo algo incrível!");
 
 
 console.log("TESTE SIMPLES:");
-console.log("   ✅ Teste 1: Ambiente Node.js configurado com sucesso!");
-console.log("   ✅ Teste 2: Todas as mensagens foram exibidas corretamente!");
+console.log("Teste 1: Ambiente Node.js configurado com sucesso!");
+console.log("Teste 2: Todas as mensagens foram exibidas corretamente!");
 

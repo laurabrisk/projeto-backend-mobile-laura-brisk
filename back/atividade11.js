@@ -39,8 +39,8 @@ app.get('/contato', (req, res) => {
 
 
 app.listen(PORT, () => {
-    console.log(`🚀 Servidor: http://localhost:${PORT}`);
-    console.log(`📖 Sobre: http://localhost:${PORT}/sobre`);
-    console.log(`👥 Equipe: http://localhost:${PORT}/equipe`);
-    console.log(`📧 Contato: http://localhost:${PORT}/contato`);
+    console.log(`Servidor: http://localhost:${PORT}`);
+    console.log(`Sobre: http://localhost:${PORT}/sobre`);
+    console.log(`Equipe: http://localhost:${PORT}/equipe`);
+    console.log(`Contato: http://localhost:${PORT}/contato`);
 });
